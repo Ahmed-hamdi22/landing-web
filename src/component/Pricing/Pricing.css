@@ -1,0 +1,75 @@
+.pricing{
+    margin: 50px 0;
+    padding: 25px 0;
+}
+.pricing h2{
+    color: #000;
+    text-transform: uppercase;
+    font-size: 30px; 
+    margin: 25px 0;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.pricing p{
+    margin: 25px 0;
+}
+.pricing-box {
+    margin: top 25px ;
+    text-align: center;
+    padding: 50px 40px 50px 40px;
+    border: 1px solid #ecf0f5;
+    border-radius: 8px;
+    box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1) !important;}
+    .pricing-box::after {
+        transition: all 0.3s ease-in-out;
+    }
+    .pricing-box h5{
+        color: #000;
+        font-weight: 16px;
+        margin: 5px 0;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    .pricing-box h4{
+        color: #0a0a0a;
+        font-size: 28px;
+        margin: 5px 0;
+        font-weight: bold;
+
+    }
+    .pricing-box p{
+     color: #777;
+     font-size: 15px;
+     text-transform: uppercase;
+     margin-top: 5px; 
+    }
+    .pricing-box ul{
+        margin: 15px ;
+        padding: 0px;
+    }
+    .pricing-box ul li{
+        color:#ff0000 ;
+        font-weight: bold;
+        font-size: 13px;
+        margin: 10px 0;
+        align-items: center;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .pricing-box ul li span{
+        color: #000;
+        margin:5px 0 ;
+        margin: 15px;
+       
+    }
+.pricing-box button{
+    background-color: #fb3e3e;
+    border-radius: 5px;
+    margin: 15px 0;
+    padding: 5px 0;
+    box-sizing: border-box;
+    color: #fff;
+    width: 120px;
+    height: 40px;
+}

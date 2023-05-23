@@ -1,0 +1,25 @@
+.peoplebox{
+    /* align-items: center; */
+    margin: 15px 0 ;
+    width: 100%;
+    border: 1px solid #fdfafa;
+}
+.peoplebox h2{
+font-size: 22px;
+text-align: center;
+
+}
+.peoplebox p{
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.title{
+    text-align: center;
+}
+.title p{
+    padding: 15px 0;
+    color: #000;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
