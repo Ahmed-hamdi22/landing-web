@@ -6,7 +6,7 @@ const Header = () => {
         <div className='header-overlay'>
       <div className='container'>
       <div className='row'>
-      <div className='col-lg-12 ban'>
+      <div className='col-lg-12 col-md-12 ban'>
         <h2>
         We help startups launch their<br/> products
         </h2>
